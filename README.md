@@ -1,7 +1,6 @@
 
-# Welcome CityName DS 99!
 
-:wave:
+# WELCOME TO METIS!
 
 ---
 
@@ -9,19 +8,19 @@
 |------|-------|  
 
 ---
-| **Course ID**     |  city99_ds99    |
+| **Course ID**     |  onl20_ds4    |
 |:------|:-------|
-| **Section**   | Summer 2099 - Cohort 99  |  
-| **City**  | CityName |
-| **Dates** | 01-January-2019 to 31-December-2019   |
-| **Slack** |  [ds99 team](https://Summer-city99-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
-| **Senior Data Scientists** |  [First Last](https://www.linkedin.com/in/first-last), [Another Name](https://www.linkedin.com/in/anothermname), [One More](https://www.linkedin.com/in/onemore123) |
+| **Section**   | Fall 2020 - Cohort 4  |  
+| **City**  | ONLINE |
+| **Dates** | 21-September-2020 to 10-December-2020   |
+| **Slack** |  [ds4 team](https://Fall-onl20-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
+| **Senior Data Scientists** |  [Kimberly Fessel](https://www.linkedin.com/in/kimberlyfessel), [Vinny Senguttuvan](https://www.linkedin.com/in/vinny-senguttuvan-95755a141) |
 
 ### Quick Links:
 
 
 * [Sign up for the GitHub Student Developer Pack here](https://metis-education-signup.glitch.me/)
-
+* [Investigation Signup]()* [Blog Submission]()* [Submission Guide](https://github.com/thisismetis/onl20_ds4_instructor/blob/master/curriculum/project-01/git-1/submissions.md)
 ### Metis Conda Environment
 
 <details><summary> Installing the environment for the first time (click to expand)</summary> 
@@ -156,13 +155,6 @@ conda env update thisismetis/metis
     (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/pair_demo">
-    • Pair Demo
-   </a>
-   <small>
-    (20m)
-   </small>
-   <br/>
    <a href="/curriculum/project-01/day-1-materials">
     • Day 1 Materials
    </a>
@@ -170,11 +162,11 @@ conda env update thisismetis/metis
     (40m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/git-1">
-    • Git Intro
+   <a href="/curriculum/project-01/pair_demo">
+    • Pair Demo
    </a>
    <small>
-    (60m)
+    (20m)
    </small>
    <br/>
    <a href="/curriculum/project-01/pandas-revisited">
@@ -184,6 +176,13 @@ conda env update thisismetis/metis
     (45m)
    </small>
    <br/>
+   <a href="/curriculum/project-01/git-1">
+    • Git Intro
+   </a>
+   <small>
+    (60m)
+   </small>
+   <br/>
    <a href="/curriculum/project-01/project-01-introduction">
     • Project 1 Introduction
    </a>
@@ -191,118 +190,80 @@ conda env update thisismetis/metis
     (20m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/review">
-    • Optional Review
-   </a>
+  </td>
+  <td>
+   Total: 110m
+   <br/>
+   • Pair: alphabets
    <small>
-    (0m)
+    (60m)
+   </small>
+   <br/>
+   • Complexity Intro
+   <small>
+    (50m)
+   </small>
+   <br/>
+   • Numpy
+   <small>
+    (30m)
+   </small>
+   <br/>
+   • Project Design
+   <small>
+    (30m)
+   </small>
+   <br/>
+  </td>
+  <td>
+   Total: 120m
+   <br/>
+   • Pair: guessnum
+   <small>
+    (60m)
+   </small>
+   <br/>
+   • MTA Challenge Solutions
+   <small>
+    (60m)
+   </small>
+   <br/>
+   • Matplotlib
+   <small>
+    (60m)
    </small>
    <br/>
   </td>
   <td>
    Total: 150m
    <br/>
-   <a href="pairs/alphabets">
-    • Pair: alphabets
-   </a>
+   • Pair: prime
    <small>
     (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/design">
-    • Project Design
-   </a>
+   • Code Style
    <small>
-    (30m)
+    (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/matplotlib">
-    • Matplotlib
-   </a>
+   • Presentation Guide
    <small>
-    (90m)
+    (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/git-2">
-    • Git Branches
-   </a>
+   • Seaborn
    <small>
     (30m)
    </small>
    <br/>
   </td>
   <td>
-   Total: 150m
+   Total: 0m
    <br/>
-   <a href="pairs/guessnum">
-    • Pair: guessnum
-   </a>
-   <small>
-    (60m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/presentation-guide">
-    • Presentation Guide
-   </a>
-   <small>
-    (60m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/seaborn">
-    • Seaborn
-   </a>
-   <small>
-    (30m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/mta-solns">
-    • MTA Challenge Solutions
-   </a>
-   <small>
-    (60m)
-   </small>
-   <br/>
-  </td>
-  <td>
-   Total: 75m
-   <br/>
-   <a href="pairs/prime">
-    • Pair: prime
-   </a>
-   <small>
-    (60m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/numpy">
-    • Numpy
-   </a>
-   <small>
-    (30m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/code-style">
-    • Code Style
-   </a>
-   <small>
-    (45m)
-   </small>
-   <br/>
-  </td>
-  <td>
-   Total: 60m
-   <br/>
-   <a href="/curriculum/project-01/project-01-presentation">
-    • Project 1 Presentation
-   </a>
+   • Project 1 Presentation
    <small>
     (0m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/blog">
-    • Blog
-   </a>
-   <small>
-    (60m)
    </small>
    <br/>
   </td>
@@ -334,7 +295,7 @@ conda env update thisismetis/metis
 * [Data](challenges/challenges_data)
 * [Solutions](challenges/challenges_solutions)
 * [student_submissions/challenges](/student_submissions/challenges)
-
+* [Submission Guide](https://github.com/thisismetis/onl20_ds4_instructor/blob/master/curriculum/project-01/git-1/submissions.md)
 **Note:**
 * **Review the [Instructions](/challenges/README.md) before submitting!**
 * Students are permitted and encouraged to work with other students on the challenge sets
@@ -371,7 +332,7 @@ conda env update thisismetis/metis
 ### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
 
 * Required:  2 presentations
-* After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
+* [Investigation Signup Link]() * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
@@ -379,7 +340,7 @@ conda env update thisismetis/metis
  
 * Required:  2 blogs
 * Recommended:  5+ blogs
-
+* Blog [Link]() 
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|
 | 1    | ds / project 1 | required | EOD Presentation Day |   
