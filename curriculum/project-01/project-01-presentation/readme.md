@@ -1,1 +1,0 @@
-This is a stub for the project 1 presentation day.
