@@ -14,7 +14,7 @@
 | **City**  | ONLINE |
 | **Dates** | 21-September-2020 to 10-December-2020   |
 | **Slack** |  [ds4 team](https://Fall-onl20-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
-| **Senior Data Scientists** |  [Kimberly Fessel](https://www.linkedin.com/in/kimberlyfessel), [Vinny Senguttuvan](https://www.linkedin.com/in/vinny-senguttuvan-95755a141) |
+| **Senior Data Scientists** |  [Brian McGarry](https://www.linkedin.com/in/briantmcgarry), [Leon Johnson](https://www.linkedin.com/in/johnson-leon-t), [Kimberly Fessel](https://www.linkedin.com/in/kimberlyfessel), [Vinny Senguttuvan](https://www.linkedin.com/in/vinny-senguttuvan-95755a141), [Joan Wang](https://www.linkedin.com/in/joanywang), [Richard Chiou](https://www.linkedin.com/in/richard-chiou-1275744b) |
 
 ### Quick Links:
 

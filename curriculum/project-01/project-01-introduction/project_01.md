@@ -37,19 +37,17 @@ An email from a potential client:
 ## Analysis:
 
  * Exploratory Data Analysis
+ * The [01-mta challenge](https://github.com/thisismetis/onl20_ds4/tree/master/challenges/challenges_questions/01-mta) will help you get started with your data exploration and get you up to speed with the skills and tools you need to complete this project.
 
 ## Deliverable/Communication:
 
  * Group presentation, 6 minutes (3-4 people per)
  * Organized project repository
 
-**Friday 9/25:** Presentations will start at 9:30am PT. You will have the first hour (8:30-9:30am) to submit a pdf of your presentation through the student submissions form and practice as a group (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). Presentations should be focused on the client, no longer than 6 minutes, and everyone needs to talk.
+**Friday 9/25:** You will have the hour before presentations start to submit a PDF of your presentation through the student submissions form and practice as a group (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). Presentations should be focused on the client, no longer than 6 minutes, and everyone needs to talk.
+**Monday 9/28:** Code submission is due before in the morning before class starts. Include code and README file.
 
-**Monday 9/28:** Code submission is due by 8:30am. Include code and README file.
+---
 
-## Milestones
-
-TBD. Keep an eye on the [#projects](https://fall-onl20-metis.slack.com/archives/C019V98KCAC) channel on Slack!
-
-
+As with all projects, it will be graded based on this [rubric](https://docs.google.com/document/d/1oAJrWNR7HxNJVI2IHUuHArEvBccowLqvPObYbqtH0rs/edit).  
 We are very excited to see what you will learn and do for Project 1!

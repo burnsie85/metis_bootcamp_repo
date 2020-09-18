@@ -62,9 +62,9 @@ $ git push origin master
 
 Go to your forked repo: https://github.com/user_name/onl20_ds4 and navigate to the desired file within the student submissions folder. Then, submit this url through your campuses Student Submissions Google Form:
 
-[East Submissions](https://docs.google.com/forms/d/e/1FAIpQLSdzIwmJpkeOeQd7HsAnSr3e6KAHlV28_chulHmZUFPSt10A-A/viewform?usp=sf_link)
+[Lasso Submissions](https://docs.google.com/forms/d/e/1FAIpQLSdzIwmJpkeOeQd7HsAnSr3e6KAHlV28_chulHmZUFPSt10A-A/viewform?usp=sf_link)
 
-[West Submissions](https://docs.google.com/forms/d/e/1FAIpQLScEWF1KL6oHCcaU6_vm-jv8-8rRNsH_uzUeFBnCITEDTyMzGQ/viewform?usp=sf_link)
+[Ridge Submissions](https://docs.google.com/forms/d/e/1FAIpQLScEWF1KL6oHCcaU6_vm-jv8-8rRNsH_uzUeFBnCITEDTyMzGQ/viewform?usp=sf_link)
 
 ---
 
