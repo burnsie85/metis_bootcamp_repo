@@ -1,16 +1,16 @@
-## Project 1: Exploratory Data Analysis (EDA)
+# Project 1: Exploratory Data Analysis (EDA)
 
-### Back Story
+## Back Story
 
 An email from a potential client:
 
-> Vinny & Julia -
+> Vinny & Joan -
 >
 > It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.
 >
 > As we mentioned, we are interested in harnessing the power of data and analytics to optimize the effectiveness of our street team work, which is a significant portion of our fundraising efforts.
 >
-> WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer each year. As we are new and inclusive organization, we try to do double duty with the gala both to fill our event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
+> WomenTechWomenYes (WTWY) has an annual gala in New York City at the beginning of the fall each year. As we are new and inclusive organization, we try to do double duty with the gala both to fill our event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
 >
 > To this end we place street teams at entrances to subway stations. The street teams collect email addresses and those who sign up are sent free tickets to our gala.
 >
@@ -24,30 +24,32 @@ An email from a potential client:
 >
 > WTWY International
 
+## Data:
 
-
-
-#### Data:
-
- * MTA Data (Google it!)
+ * MTA Turnstile Data (Google it!)
  * Additional data sources welcome!
   
-#### Skills:
+## Skills:
 
  * `python` and `pandas`
  * visualizations via Matplotlib & seaborn
 
-#### Analysis:
+## Analysis:
 
  * Exploratory Data Analysis
 
+## Deliverable/Communication:
 
-#### Deliverable/communication:
+ * Group presentation, 6 minutes (3-4 people per)
+ * Organized project repository
 
- * Group presentation (4-5 people per) 
- * slide presentation
- * visual and oral communication in group presentations
- * organized project repository
+**Friday 9/25:** Presentations will start at 9:30am PT. You will have the first hour (8:30-9:30am) to submit a pdf of your presentation through the student submissions form and practice as a group (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). Presentations should be focused on the client, no longer than 6 minutes, and everyone needs to talk.
+
+**Monday 9/28:** Code submission is due by 8:30am. Include code and README file.
+
+## Milestones
+
+TBD. Keep an eye on the [#projects](https://fall-onl20-metis.slack.com/archives/C019V98KCAC) channel on Slack!
 
 
-We are very excited to see what you will learn and do for Project Benson!
+We are very excited to see what you will learn and do for Project 1!
