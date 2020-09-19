@@ -18,106 +18,9 @@
 
 ### Quick Links:
 
-
-* [Sign up for the GitHub Student Developer Pack here](https://metis-education-signup.glitch.me/)
-* [Investigation Signup]()* [Blog Submission]()* [Submission Guide](https://github.com/thisismetis/onl20_ds4_instructor/blob/master/curriculum/project-01/git-1/submissions.md)
-### Metis Conda Environment
-
-<details><summary> Installing the environment for the first time (click to expand)</summary> 
-
-# Environment management
-
-We will be using Anaconda environments to manage the python packages that are
-needed for our curriculum. You can think of an environment as a container for
-the packages that you need to run code.
-
-Environments can be useful when you have several different projects, each with
-different software requirements. Environments let you separately the packages
-used for each package and preserve them so that the project code will continue
-to work in the future.
-
-Today, we'll start by building our very first conda environment. Metis has a
-list of the software needed to run all the code in our curriculum. We keep track
-of this in the cloud, allowing you to easily get up and running.
-
-## Setup
-
-### Conda
-
-First, you need to have anaconda installed in order for this to work. Check that
-`conda` is installed by running `conda -V` from your terminal. You should
-receive a response indicating your current `conda` version.
-
-If you haven't already, install the appropriate miniconda for your system from
-the link [here](https://docs.conda.io/en/latest/miniconda.html). **Be sure to
-select the python 3.\* version**.
-
-### Metis Environment
-
-Now we'll run the code to install the metis environment.
-
-First, let's check if `conda` needs to be updated:
-
-```bash
-conda update conda -y
-```
-
-Next, we need to install `anaconda-client` in order to load cloud environmentts.
-
-```bash
-conda install anaconda-client -y
-```
-
-Finally, install the Metis environment:
-
-```bash
-conda env create thisismetis/metis
-```
-
-The `nb_conda` package will automatically connect your conda environment to
-jupytyer.
-
-# How to use the Metis environment
-
-When you open a new terminal, you should see a prompt similar to:
-
-```bash
-(base)$
-```
-
-This indicates that you are currently in the "base" environment. You can confirm
-this with `conda info`.
-
-## Switch to the Metis environment
-
-**Before you can run Jupyter, you need to switch to the Metis environment.** You
-can do this by running
-
-```bash
-(base)$ conda activate metis
-(metis)$
-```
-
-You can then start Jupyter by running
-
-```bash
-(metis)$ jupyter notebook
-```
-
-When starting a new notebook in Jupyter, students should select "Kernel ->
-Change Kernel -> metis" before running.
-
-</details>
-
-<details><summary>Updating the environment (click to expand)</summary> 
-You can update your metis environment any time by running
-
-```bash
-conda env update thisismetis/metis
-```
-</details>
-
-
+* [Project Rubric](https://docs.google.com/document/d/1oAJrWNR7HxNJVI2IHUuHArEvBccowLqvPObYbqtH0rs/edit)
+* [Project Submission](./curriculum/project-01/git-1/submissions.md)
+* Investigation Signup ([Lasso](https://docs.google.com/spreadsheets/d/1VjSOn0D3CSS1vA7-IwJar6NSVEQgeQdibkNtV1mmtnE/edit?usp=sharing), [Ridge](https://docs.google.com/spreadsheets/d/1bsgLCEYBC3aqTtkjX7R-dl2cwCqzdCp1pJB0QzlrTN4/edit?usp=sharing))
 
 # Daily Schedule
 
@@ -273,17 +176,14 @@ conda env update thisismetis/metis
 
 # Deliverables
 
-### <a name="section-b"></a>[Projects](/projects)
-
-* Presentation slides, in **PDF** format, should be submitted (via pull request) to the course repo, under [student_submissions/projects](/student_submissions/projects) folder
-* All code should also be submitted to the same folder (do not include your data files as they'll be too big)
+## Projects
 
 |    |Project | Week | Topics                 |  Due |
 |----|----|-------|-------|----------|
-| 1  | Exploratory Data Analysis (EDA)  | 1 | [MTA turnstile](/curriculum/project-01/project-01-introduction/project_01.md) | Week 1, Friday  |
-| 2  | Regression  | 2, 3|  [Movies, webscraping, regression](/curriculum/project-02/project-02-introduction/project_02.md)  | Week 3, Friday |
-| 3  | Classification | 4, 5, 6|  [Supervised, D3](/curriculum/project-03/project-03-introduction/project_03.md)        | Week 6, Wednesday |
-| 4  | Unsupervised Learning & NLP | 6, 7, 8|  [Unsupervised, NLP](/curriculum/project-04/project-04-introduction/project_04.md) | Week 8, Friday  |
+| 1  | Exploratory Data Analysis (EDA)  | 1 | [MTA turnstile](./curriculum/project-01/project-01-introduction/project_01.md) | Week 1, Friday  |
+| 2  | Regression  | 2, 3|  Movies, webscraping, regression  | Week 3, Friday |
+| 3  | Classification | 4, 5, 6|  Supervised Learning        | Week 6, Wednesday |
+| 4  | Unsupervised Learning & NLP | 6, 7, 8|  Unsupervised Learning, NLP | Week 8, Friday  |
 | 5  | Passion Project | 9, 10, 11, 12| Passion Project | Week 12, Monday |
 
 ---
