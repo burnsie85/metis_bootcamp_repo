@@ -195,9 +195,9 @@
 * [Data](challenges/challenges_data)
 * [Solutions](challenges/challenges_solutions)
 * [student_submissions/challenges](/student_submissions/challenges)
-* [Submission Guide](https://github.com/thisismetis/onl20_ds4_instructor/blob/master/curriculum/project-01/git-1/submissions.md)
+* [Submission Guide](./curriculum/project-01/git-1/submissions.md)
 **Note:**
-* **Review the [Instructions](/challenges/README.md) before submitting!**
+* **Review the [Instructions](./challenges/README.md) before submitting!**
 * Students are permitted and encouraged to work with other students on the challenge sets
 * Students should submit challenges individually (not by group); include names of people you worked with in header
 * OK to submit partial work, full set is encouraged but not required
@@ -229,10 +229,11 @@
 
 ---
 
-### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
+### Investigations
 
 * Required:  2 presentations
-* [Investigation Signup Link]() * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
+* Investigation Signups ([Lasso](https://docs.google.com/spreadsheets/d/1VjSOn0D3CSS1vA7-IwJar6NSVEQgeQdibkNtV1mmtnE/edit?usp=sharing), [Ridge](https://docs.google.com/spreadsheets/d/1bsgLCEYBC3aqTtkjX7R-dl2cwCqzdCp1pJB0QzlrTN4/edit?usp=sharing))
+* After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
@@ -240,7 +241,8 @@
  
 * Required:  2 blogs
 * Recommended:  5+ blogs
-* Blog [Link]() 
+* Blog
+
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|
 | 1    | ds / project 1 | required | EOD Presentation Day |   
