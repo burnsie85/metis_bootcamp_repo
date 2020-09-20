@@ -193,11 +193,11 @@
 * [Instructions](/challenges/README.md)
 * [Questions](/challenges/challenges_questions)
 * [Data](challenges/challenges_data)
-* [Solutions](challenges/challenges_solutions)
+* [Solutions](challenges/challenges_solutions) *(Available after due date.)*
 * [student_submissions/challenges](/student_submissions/challenges)
 * [Submission Guide](./curriculum/project-01/git-1/submissions.md)
-**Note:**
-* **Review the [Instructions](./challenges/README.md) before submitting!**
+
+**Note: Review the [Instructions](./challenges/README.md) before submitting!**
 * Students are permitted and encouraged to work with other students on the challenge sets
 * Students should submit challenges individually (not by group); include names of people you worked with in header
 * OK to submit partial work, full set is encouraged but not required
