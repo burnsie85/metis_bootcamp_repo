@@ -44,7 +44,7 @@ An email from a potential client:
  * Group presentation, 6 minutes (3-4 people per)
  * Organized project repository
 
-**Friday 9/25:** You will have the hour before presentations start to submit a PDF of your presentation through the student submissions form and practice as a group (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). Presentations should be focused on the client, no longer than 6 minutes, and everyone needs to talk.
+**Friday 9/25:** You will have the hour before presentations start to submit a PDF of your presentation through the student submissions form and practice as a group (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). Presentations should be focused on the client, no longer than 6 minutes, and everyone needs to talk.  
 **Monday 9/28:** Code submission is due before in the morning before class starts. Include code and README file.
 
 ---
