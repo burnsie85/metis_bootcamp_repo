@@ -231,7 +231,8 @@
 
 ### Investigations
 
-* Required:  2 presentations
+* Required:  1 presentation
+* Details can be found at [investigations/README.md](https://github.com/thisismetis/onl20_ds4/tree/master/investigations)
 * Investigation Signups ([Lasso](https://docs.google.com/spreadsheets/d/1VjSOn0D3CSS1vA7-IwJar6NSVEQgeQdibkNtV1mmtnE/edit?usp=sharing), [Ridge](https://docs.google.com/spreadsheets/d/1bsgLCEYBC3aqTtkjX7R-dl2cwCqzdCp1pJB0QzlrTN4/edit?usp=sharing))
 * After investigation presentation, a pdf copy should be submitted per [project submission instructions](./curriculum/project-01/git-1/submissions.md), under [student_submissions/investigations](/student_submissions/investigations) folder
 
