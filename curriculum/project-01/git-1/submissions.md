@@ -10,7 +10,7 @@ All project code will be pushed to a new repo and submitted through Google Forms
 1. Create a public repo for each project on Github.
 2. Clone the repo onto your local computer.
 3. Code up your project, going through the add -> commit -> push process as needed.
-4. Submit the URL of the repo through the Student Submissions Google Form.
+4. Submit the URL of the repo through your designated [Student Submissions Google Form](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md#student-submissions-google-form).
 
 
 # Part 2: Submitting Challenges and Investigation Slides
@@ -60,8 +60,10 @@ $ git push origin master
 ---
 ### 3. Submit the URL through Google Forms
 
-Go to your forked repo: https://github.com/user_name/onl20_ds4 and navigate to the desired file within the student submissions folder. Then, submit this url through your campuses Student Submissions Google Form:
+Go to your forked repo: https://github.com/user_name/onl20_ds4 and navigate to the desired file within the student submissions folder. Then, submit this url through your designated [Student Submissions Google Form](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md#student-submissions-google-form).
 
+---
+# Student Submissions Google Form
 [Lasso Submissions](https://docs.google.com/forms/d/e/1FAIpQLSdzIwmJpkeOeQd7HsAnSr3e6KAHlV28_chulHmZUFPSt10A-A/viewform?usp=sf_link)
 
 [Ridge Submissions](https://docs.google.com/forms/d/e/1FAIpQLScEWF1KL6oHCcaU6_vm-jv8-8rRNsH_uzUeFBnCITEDTyMzGQ/viewform?usp=sf_link)
