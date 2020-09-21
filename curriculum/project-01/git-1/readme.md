@@ -1,12 +1,7 @@
 # Sample Lesson Plan
 
-- (60m) [Git Cheat Sheet](metis_git_cheatsheet.pdf)
-    - Discuss first three boxes with Students. 
-    - Go through the following exercises:
-        - Clone the student repo. (Verify that all students have done so.)
-        - Make a change and save to a new branch.
-        - Pull new changes from the Metis Repo.
-- *Optional*: [Git intro](Intro_to_Git.pdf)
+- (45m) [Git Intro](Intro_to_Git.pdf)
+- (30m) [Git Setup](git.md) and [Submissions Process](submissions.md)
 
 # Learning Objectives
 
@@ -18,8 +13,6 @@ With this material students will learn:
 - How to push and pull
 
 # Depends On
-
-[Command Line](https://github.com/thisismetis/dscurriculum_gamma/tree/master/curriculum/project-01/command-line)
 
 # Additional Resources
 
