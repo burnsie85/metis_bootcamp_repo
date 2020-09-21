@@ -256,7 +256,7 @@
 
 ### <a name="section-e"></a>Assessments
  
-* There will be 2 Quizzes given (dates below).  The quiz will be given in class & will be multiple-choice format.
+* There will be 2 multiple-choice quizzes (dates below).
 
 | Quiz | Topics | Note* | Date |  
 |------|-------|-------|-----|
